@@ -1,0 +1,20 @@
+car_parking_lot  6
+park  KA-01-HH-1234 white
+park  KA-01-HH-9999 white
+park  KA-01-HH-0001 black
+park  KA-01-HH-7777 black
+park  KA-01-HH-2701 blue
+park  KA-01-HH-3141 black
+leave 4
+Press 1 to vacant more slots else press 00
+status
+park  KA-01-P-333 white
+Press 1 to get parking space else press 01
+park  DL-12-AA-9999 white
+Press 1 to get parking space else press 00
+registration_numbers_for_cars_with_colorwhite
+slot_numbers_for_cars_with_colorwhite
+slot_number_for_registration_numberKA-01-HH-3141
+Press 1 for more enquiry else press 01
+slot_number_for_registration_numberhg-00909-i
+Press 1 for more enquiry else press 00
